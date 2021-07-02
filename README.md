@@ -1,0 +1,2 @@
+# SenWordDetect
+sensitive word detection
